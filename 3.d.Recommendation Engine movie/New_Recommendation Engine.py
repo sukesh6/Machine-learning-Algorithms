@@ -41,7 +41,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 import joblib
 
 # Load the anime dataset from a CSV file
-anime = pd.read_csv(r"C:/Users/sukes/Downloads/3.d.Recommendation Engine-20240730T084437Z-001/3.d.Recommendation Engine/anime.csv", encoding='utf8')
+anime = pd.read_csv(r"anime_dataset")
 
 # Database Connection using SQLAlchemy
 from sqlalchemy import create_engine
