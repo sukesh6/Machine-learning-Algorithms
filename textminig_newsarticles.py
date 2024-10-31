@@ -117,7 +117,4 @@ plt.grid()
 plt.legend(leg,loc=2,fontsize=15)
 plt.show()
 
-#Conclusion
-#The above figures demonstrate that various well-known Indian news channels currently lack precise information on the new COVID variant BF-7.
 
-#According to the articles, overall subjectivity is higher than polarity in terms of how harmful BF7 is compared to the previous variant.
